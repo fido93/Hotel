@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "hotel-view",
-    "slug": "hotel-view",
+    "name": "Hotel UI",
+    "slug": "hotel-ui",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +21,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Hotel expedia clone"
   }
 }
